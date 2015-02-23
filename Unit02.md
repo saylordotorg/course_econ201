@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON201: Intermediate Microeconomics"
+course_description: "A rigorous introduction to resource allocation in a market economy, with particular emphasis on supply and demand interaction, utility maximization, profit maximization, elasticity, perfect competition, monopoly power, imperfect competition, and game theory."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Trade and Externalities** <span id="2"></span> 
 *Trade theory forms part of the bedrock of economic analysis.  The
 concept of specialization is key to understanding how to maximize an

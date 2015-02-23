@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON201: Intermediate Microeconomics"
+course_description: "A rigorous introduction to resource allocation in a market economy, with particular emphasis on supply and demand interaction, utility maximization, profit maximization, elasticity, perfect competition, monopoly power, imperfect competition, and game theory."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Producer Theory and Investment** <span id="3"></span> 
 *Every firm faces one primary constraint: a budget.  The balance between
 costs and revenues will determine a firm’s profit.  Firms will seek to

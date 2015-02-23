@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON201: Intermediate Microeconomics"
+course_description: "A rigorous introduction to resource allocation in a market economy, with particular emphasis on supply and demand interaction, utility maximization, profit maximization, elasticity, perfect competition, monopoly power, imperfect competition, and game theory."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction and Basic Concepts** <span id="1"></span> 
 *This unit provides an overview of basic economic concepts.  We begin
 with a definition of economics and then move to apply its basic tools of

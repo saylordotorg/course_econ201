@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON201: Intermediate Microeconomics"
+course_description: "A rigorous introduction to resource allocation in a market economy, with particular emphasis on supply and demand interaction, utility maximization, profit maximization, elasticity, perfect competition, monopoly power, imperfect competition, and game theory."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Consumer Theory and Equilibrium** <span id="4"></span> 
 *This unit addresses the other main agent in microeconomics—the
 individual consumer.  Similar to firms, individuals face constraints in

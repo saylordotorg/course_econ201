@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON201: Intermediate Microeconomics"
+course_description: "A rigorous introduction to resource allocation in a market economy, with particular emphasis on supply and demand interaction, utility maximization, profit maximization, elasticity, perfect competition, monopoly power, imperfect competition, and game theory."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Competition** <span id="5"></span> 
 *Economists organize firms into various categories known as market
 structures.  A monopoly is a single firm in an industry which, even in
